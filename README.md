@@ -2,7 +2,7 @@
 Project PAMDP - Technical test for InstaDeep
 
 <p align="center">
-    //![simple_example](./figures/screen.png)
+    ![simple_example](./figures/screen.png)
 </p>
 
 Requirements
