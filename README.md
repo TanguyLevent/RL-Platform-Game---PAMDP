@@ -1,7 +1,9 @@
 # Platform Project InstaDeep
 Project PAMDP - Technical test for InstaDeep
 
-|![simple_example](./figures/screen.png) |
+<p align="center">
+    //![simple_example](./figures/screen.png)
+</p>
 
 Requirements
 ------------------------------------------
