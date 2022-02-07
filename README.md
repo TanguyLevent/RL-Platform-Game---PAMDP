@@ -1,6 +1,6 @@
 # Platform Project InstaDeep
 Project PAMDP - Technical test for InstaDeep
-![simple_example](./resources/simple_example.svg) |
+![simple_example](./figures/screen.png) |
 
 Requirements
 ------------------------------------------
