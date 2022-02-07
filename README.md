@@ -21,8 +21,8 @@ Environment
 Algorithms
 ------------------------------------------
 
-* [Random](https://github.com/TanguyLevent/Platform_Project_InstaDeep/blob/main/agents/algorithms/random.py) Random Agent
-* [DQN](https://github.com/TanguyLevent/Platform_Project_InstaDeep/blob/main/agents/algorithms/dqn.py) DQN with random continuous action
+* [Random](https://github.com/TanguyLevent/Platform_Project_InstaDeep/blob/main/agents/algorithms/random.py) 
+* [DQN](https://github.com/TanguyLevent/Platform_Project_InstaDeep/blob/main/agents/algorithms/dqn.py) 
 * [PDQN](https://github.com/TanguyLevent/Platform_Project_InstaDeep/blob/main/agents/algorithms/pdqn.py) 
 * [Hybrid Soft Actor Critic](https://github.com/TanguyLevent/Platform_Project_InstaDeep/blob/main/agents/algorithms/hybrid_sac.py)
 
