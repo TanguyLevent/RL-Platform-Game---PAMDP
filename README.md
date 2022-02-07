@@ -6,11 +6,11 @@ Requirements
 
 ### Python (mandatory)
 
-[Python](https://www.python.org/) 3.8 / 3.9 is mandatory (3.10 issue with Pytorch)
+[Python](https://www.python.org/) 3.8+ (3.10 issue with Pytorch)
 
 ### Requirements (mandatory)
 
-[PyTorch](https://pytorch.org/get-started/locally/
+[PyTorch](https://pytorch.org/get-started/locally/)
 
 Environment
 ------------------------------------------
