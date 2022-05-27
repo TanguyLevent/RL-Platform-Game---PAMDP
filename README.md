@@ -1,5 +1,5 @@
-# Platform Project InstaDeep
-Project PAMDP - Technical test for InstaDeep
+# Platform Project 
+Project PAMDP 
 
 <p align="center">
     <img width="400" src="https://github.com/TanguyLevent/Platform_Project_InstaDeep/blob/main/figures/screen.png">
